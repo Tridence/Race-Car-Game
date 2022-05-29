@@ -13,5 +13,5 @@ countdown()
 // Players are running the race 🏎 💨
 // Race is finished! 🍾
 
-// Get ready for a new race 🏎 🏎 🏎
+// Get ready for a new race : The race begins again 🏎
 countdown()
